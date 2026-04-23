@@ -1,5 +1,5 @@
 //package week14lab;
-
+//Week 14 Lab
 class Counter {
     private int c = 0;
 
