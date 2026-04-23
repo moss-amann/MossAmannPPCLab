@@ -1,5 +1,5 @@
 //package week14lab;
-
+//Week 14 Lab
 public class OneB {
     public static void main(String [] args){
         sumThread newSumThread = new sumThread();
