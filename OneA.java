@@ -1,5 +1,5 @@
 //package week14lab;
-
+//Week 14 Lab
 
 class threadNum implements Runnable{
     int sum = 0;
